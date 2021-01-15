@@ -1,4 +1,4 @@
-# Cow Go Shh
+# Cow Go Shhh
 
 Mod to make things quiet in a specified area.
 
